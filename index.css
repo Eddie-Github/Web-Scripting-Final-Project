@@ -1,0 +1,17 @@
+/* make text green */
+*{
+    color: green;
+    text-align: center;
+}
+/* increase font size of text */
+p, footer, button{
+    font-size: larger;
+}
+/* add padding above footer */
+footer{
+    padding-top: 30pt;
+}
+
+#output, footer{
+    font-size: 18pt;
+}
